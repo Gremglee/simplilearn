@@ -11,10 +11,11 @@
   "dependencies": {
     "@handlebars/allow-prototype-access": "^1.0.5",
     "body-parser": "^1.20.1",
-    "exphbs": "^1.2.0",
     "express": "^4.18.2",
     "express-handlebars": "^6.0.7",
+    "express-route-list-cli": "^2.0.6",
     "handlebars": "^4.7.7",
+    "mongoose": "^6.9.2",
     "path": "^0.12.7"
   }
 }
